@@ -13,7 +13,7 @@ export default function CVPage() {
           </PDFResumeContainer>
         </div>
         <FullResume usage="live" />
-      </PrintProvider>
+      </PrintProvider>lalalla
     </div>
   );
 }
