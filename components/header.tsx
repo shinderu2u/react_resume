@@ -11,11 +11,11 @@ export function Header() {
         <div>
           <Link href="/">
             <Image
-              src="/images/portrait.jpeg"
+              src="/images/portrait_2.png"
               alt="Portrait"
               width={48}
               height={48}
-              className="w-10 h-10 rounded-full ring-2 ring-zinc-200 dark:ring-zinc-400/40"
+              className="w-10 h-10 rounded-full ring-2 ring-zinc-200 dark:ring-zinc-600/40"
             />
           </Link>
         </div>
